@@ -16,8 +16,6 @@ Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mlmaxi98&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mlmaxi98)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mlmaxi98)  
 
 ![Profile views](https://gpvc.arturio.dev/mlmaxi98)  
