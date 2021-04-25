@@ -2,7 +2,7 @@
 ####  Soy un Fullstack Web Developer con JS 👨🏽‍💻
 Apasionado por la programación, actualmente busco mis primeras experiencias laborales en el mundo IT, disfruto mucho el trabajo en equipo y siempre estoy motivado al afrontar nuevos desafios.
 
-Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL
+Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SCSS / Styled - Componentes
 
 - 🔭 Estoy trabajando en mi proyecto final de Henry (Bootcamp) 
 - 🌱 Estoy aprendiendo sobre el desarollo móvil empezando con React Native y mejorando mi nivel de inglés 
