@@ -11,6 +11,10 @@ Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SC
 
 - Countries App: https://maxi-countries.web.app/
 
+### Proximamente...
+- Arcades APP
+- Portafolio
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mlmaxi98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaquin-cardozo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mlmaxi98/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlmaxi98)](https://github.com/anuraghazra/github-readme-stats)
