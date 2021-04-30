@@ -9,6 +9,8 @@ Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SC
 - 👯 Quiero colaborar con proyectos. 
 - 📫 Cómo contactarme: +543884641203 
 
+- LinkedIn: https://www.linkedin.com/in/joaquin-cardozo/
+
 - Countries App: https://maxi-countries.web.app/
 
 ### Proximamente...
