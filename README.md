@@ -11,7 +11,7 @@ Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SC
 
 - LinkedIn: https://www.linkedin.com/in/joaquin-cardozo/
 
-- Countries App: https://maxi-countries.web.app/
+- More Trips!: https://maxi-countries.web.app/
 
 ### Proximamente...
 - Arcades APP
