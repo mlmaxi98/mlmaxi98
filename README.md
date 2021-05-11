@@ -1,8 +1,8 @@
 ### Hola 👋, me llamo Maxi! 👦🏽
 ####  Soy un Fullstack Web Developer con JS 👨🏽‍💻
-Apasionado por la programación, actualmente busco mis primeras experiencias laborales en el mundo IT, disfruto mucho el trabajo en equipo y siempre estoy motivado al afrontar nuevos desafios.
+Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías y siempre estoy motivado al afrontar nuevos desafíos.
 
-Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SCSS / Styled - Componentes
+Habilidades: Javascript / HTML / CSS  / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Supabase / Git / Sequelize
 
 - 🔭 Estoy trabajando en mi proyecto final de Henry (Bootcamp) 
 - 🌱 Estoy aprendiendo sobre el desarollo móvil empezando con React Native y mejorando mi nivel de inglés 
@@ -12,6 +12,8 @@ Habilidades: Javascript / React / Redux / HTML / CSS / Express / PostgreSQL / SC
 - LinkedIn: https://www.linkedin.com/in/joaquin-cardozo/
 
 - More Trips!: https://maxi-countries.web.app/
+
+- TechStore: https://henrystechstore.web.app/
 
 ### Proximamente...
 - Arcades APP
