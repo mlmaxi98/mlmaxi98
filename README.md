@@ -15,8 +15,10 @@ Habilidades: Javascript / HTML / CSS  / React / Redux / SCSS / Styled - Componen
 
 - TechStore: https://henrystechstore.web.app/
 
+- Arcadepedia: https://arcadepedia-maxi.web.app/
+
 ### Proximamente...
-- Arcades APP
+
 - Portafolio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mlmaxi98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaquin-cardozo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mlmaxi98/)  
