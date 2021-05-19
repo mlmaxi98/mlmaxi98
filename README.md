@@ -26,9 +26,3 @@ Habilidades: Javascript / HTML / CSS  / React / Redux / SCSS / Styled - Componen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlmaxi98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/mlmaxi98)  
-
-- uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year 
