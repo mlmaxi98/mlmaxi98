@@ -2,10 +2,9 @@
 ####  Soy un Fullstack Web Developer con JS 👨🏽‍💻
 Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías y siempre estoy motivado al afrontar nuevos desafíos.
 
-Habilidades: Javascript / HTML / CSS  / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Supabase / Git / Sequelize
+Habilidades: Javascript / HTML / CSS  / React / Redux / SASS / Vue / Vuex / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
 
-- 🔭 Estoy trabajando en mi proyecto final de Henry (Bootcamp) 
-- 🌱 Estoy aprendiendo sobre el desarollo móvil empezando con React Native y mejorando mi nivel de inglés 
+- 🌱 Actualmente me encuentro aprendiendo sobre el desarollo móvil empezando con React Native con GraphQL
 - 👯 Quiero colaborar con proyectos. 
 - 📫 Cómo contactarme: +543884641203 
 
