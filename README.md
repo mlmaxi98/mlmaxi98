@@ -1,8 +1,8 @@
 ### Hola 👋, me llamo Maxi! 👦🏽
 ####  Soy un Fullstack Web Developer con JS 👨🏽‍💻
-Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías y siempre estoy motivado al afrontar nuevos desafíos.
+Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías.
 
-Habilidades: Javascript / HTML / CSS  / React / Redux / SASS / Vue / Vuex / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
+Habilidades: Javascript / HTML / CSS  / React / Redux / SASS / Vue / Vuex / Styled - Components / Material UI / Node / Express / PostgreSQL / Git / Sequelize
 
 - 🌱 Actualmente me encuentro aprendiendo sobre el desarollo móvil empezando con React Native con GraphQL
 - 👯 Quiero colaborar con proyectos. 
