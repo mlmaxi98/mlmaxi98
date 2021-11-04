@@ -4,7 +4,7 @@ Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto 
 
 Habilidades: Javascript / HTML / CSS  / React / Redux / SASS / Vue / Vuex / Styled - Components / Material UI / Node / Express / PostgreSQL / Git / Sequelize
 
-- 🌱 Actualmente me encuentro aprendiendo sobre el desarollo móvil empezando con React Native con GraphQL
+- 🌱 Actualmente me encuentro aprendiendo sobre el desarollo móvil empezando con React Native con GraphQL y TypeScript
 - 👯 Quiero colaborar con proyectos. 
 - 📫 Cómo contactarme: +543884641203 
 
